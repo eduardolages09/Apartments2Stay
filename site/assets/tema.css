@@ -1,0 +1,8 @@
+/* Proposta R · Apartments2Stay — Shippori Mincho + Albert Sans.
+   Papel quase branco e quente, tinta grafite e um só destaque: o azul dos azulejos do Largo de São Domingos e da Ribeira. Cada casa no seu tom (azul do azulejo, ardósia do rio, madeira da cozinha do Discovery). */
+:root {
+  --nome: "Shippori Mincho", Georgia, serif; --serif: "Shippori Mincho", Georgia, serif; --sans: "Albert Sans", system-ui, sans-serif;
+  --peso-titulo: 400; --peso-nome: 400;
+  --fundo: #f4f2ed; --fundo-2: #e9e6df; --tinta: #1e2228; --tinta-2: #61656c; --destaque: #2d4a7c; --destaque-2: #233a62; --destaque-claro: #a0aec4; --escuro: #18202c; --escuro-2: #232e40; --quartos: #18202c; --claro: #f4f2ed; --bloco: #c8cdd4;
+  --letra: 16px; --letra-tm: calc(16px - .5px);
+}
